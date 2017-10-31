@@ -10,7 +10,7 @@ namespace TestApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TEST Develope branch!");
+            Console.WriteLine("TEST Develope branch.");
         }
     }
 }
